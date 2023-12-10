@@ -60,7 +60,7 @@ void main() {
   print("Name:${student.name}");
   print("Age:${student.age}");
   print("Adress:${student.address}");
-  print("Average Core:${student.averageScore()}");
+  print("Average Score:${student.averageScore()}");
 
   print("    "); print("    ");
 
